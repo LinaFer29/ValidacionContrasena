@@ -1,5 +1,5 @@
 # ValidacionContrasena
-Taller 4: Procedimientos y funciones
+Taller 7: Procedimientos y funciones
 
 ## Función Validación Contraseña
 Dado que el tipo BOOLEAN solo es válido dentro de PL/SQL (procedimientos, funciones, triggers) y no se puede utilizar en una llamada SQL pura (como SELECT o INSERT), el tipo de retorno sera numerico.
